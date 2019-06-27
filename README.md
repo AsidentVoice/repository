@@ -1,2 +1,0 @@
-# repository
-learn java
